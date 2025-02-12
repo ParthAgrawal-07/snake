@@ -1,27 +1,27 @@
-#  Snake Game
+# 🐍 Snake Game
 
-## 1. About the Project
-The **Snake Game** is a simple console-based implementation of the classic Snake game written in **C++**. The game involves maneuvering a snake around a grid to collect food while avoiding collisions with the walls and itself.
+## 🎮 About the Project
+The **Snake Game** is a simple console-based implementation of the classic Snake game written in **C++**. The game involves maneuvering a snake around a grid to collect food while avoiding collisions with the walls or the snake's own body.
 
-## 2. Features
-- Classic Snake game mechanics
-- Score tracking with a **high score saving** feature
-- Simple **graphics**
-- **Play again** option after game over
-- Responsive controls using `W`, `A`, `S`, `D`
+## ✨ Features
+- 🐍 Classic Snake game mechanics
+- 📈 Score tracking with a **high score saving** feature
+- 🖼️ Simple **graphics**
+- 🔄 **Play again** option after game over
+- 🎮 Responsive controls using `W`, `A`, `S`, `D`
 
-## 3. Screenshots
+## 📸 Screenshots
 
-## 4. Installation
+## 🛠️ Installation
 ### Prerequisites
-- C++ Compiler (GCC, MSVC, Clang, etc.)
-- Windows OS (for `system("cls")` and `Sleep()` functions) or modify for cross-platform support
+- ⚙️ C++ Compiler (GCC, MSVC, Clang, etc.)
+- 🖥️ Windows OS (for `system("cls")` and `Sleep()` functions) or modify for cross-platform support
 
-### 5. Steps to Install and Run
+### Steps to Install and Run
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/aprk05/snake.git
-   cd snake
+   git clone https://github.com/ParthAgrawal-07/snake-game-Cpp.git
+   cd snake-game-Cpp
    ```
 2. **Compile the code**
    ```sh
@@ -29,28 +29,33 @@ The **Snake Game** is a simple console-based implementation of the classic Snake
    ```
 3. **Run the game**
    ```sh
-   ./snake_game
+   ./snake_windows
    ```
 
-## 6. How to Play
+## 🎲 How to Play
 - **Move the snake**: `W` (Up), `A` (Left), `S` (Down), `D` (Right)
 - **Eat food** (`F`) to grow longer and gain points
 - **Avoid crashing** into walls or yourself
 - **Press 'X'** to exit the game
 
-## 7. File Structure
+## 🗂️ File Structure
 ```
 ├── snake_game.cpp  # Main game source code
 ├── highscores.txt  # High score storage
 ├── README.md       # Project documentation
 ```
 
+## 🚀 Future Improvements
+- 🌐 Cross-platform support (Linux/Mac) with including other libraries instead of windows library
+- 🎨 Game UI enhancements
+- 🆙 Add levels and speed variations
+- 💾 Save user data
 
+## 🤝 Contributions
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## 8. Future Improvements
-- Cross-platform support (Linux/Mac) with including other libraries instead of windows library
-- Game UI enhancements
-- Add levels and speed variations
-- save user data
-  
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📧 Contact
+For any inquiries or feedback, feel free to reach out at [parthagrawal2904@gmail.com](mailto:parthagrawal2904@gmail.com)
