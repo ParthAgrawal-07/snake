@@ -55,7 +55,7 @@ The **Snake Game** is a simple console-based implementation of the classic Snake
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [MIT LICENSE](MIT LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📧 Contact
 For any inquiries or feedback, feel free to reach out at [parthagrawal2904@gmail.com](mailto:parthagrawal2904@gmail.com)
