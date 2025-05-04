@@ -10,7 +10,6 @@ The **Snake Game** is a simple console-based implementation of the classic Snake
 - 🔄 **Play again** option after game over
 - 🎮 Responsive controls using `W`, `A`, `S`, `D`
 
-## 📸 Screenshots
 
 ## 🛠️ Installation
 ### Prerequisites
